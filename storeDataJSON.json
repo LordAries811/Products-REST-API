@@ -1,0 +1,26 @@
+[
+    {
+        "name": "iphone",
+        "price": 154,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "iphone15",
+        "price": 154000,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "applewatch",
+        "price": 35000,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "dell inspiron",
+        "price": 92000,
+        "featured": true,
+        "company": "dell"
+    }
+]
